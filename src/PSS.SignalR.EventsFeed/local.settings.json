@@ -1,0 +1,19 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+    "AzureSignalRConnectionString": "Endpoint=",
+    "AzureWebJobsCosmosDBConnectionString": "AccountEndpoint=",
+    "AzureBlobStorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=pxlawesbxpsestrblob;AccountKey=;EndpointSuffix=core.windows.net",
+    "AzureCosmosDatabase": "PatientDirect",
+    "AzureCosmosCollection": "signalr-collection",
+    "AzureBlobContainer": "signalr-container",
+    "NoninHubName": "nonin3230",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  },
+  "Host": {
+      "LocalHttpPort": 7071,
+      "CORS": "*"
+  }
+}
