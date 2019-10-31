@@ -5,7 +5,7 @@
     "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
     "AzureSignalRConnectionString": "Endpoint=",
     "AzureWebJobsCosmosDBConnectionString": "AccountEndpoint=",
-    "AzureBlobStorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=pxlawesbxpsestrblob;AccountKey=;EndpointSuffix=core.windows.net",
+    "AzureBlobStorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=;AccountKey=;EndpointSuffix=core.windows.net",
     "AzureCosmosDatabase": "PatientDirect",
     "AzureCosmosCollection": "signalr-collection",
     "AzureBlobContainer": "signalr-container",
