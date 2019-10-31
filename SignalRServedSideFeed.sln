@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "www-html", "www-html", "{EED31F6A-0CA2-47FF-B8DE-A4317D2CD713}"
+	ProjectSection(SolutionItems) = preProject
+		src\client-app\index.html = src\client-app\index.html
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PSS.SignalR.EventsFeed", "src\PSS.SignalR.EventsFeed\PSS.SignalR.EventsFeed.csproj", "{62C66AAA-8CB2-4502-B4D8-56FF6133EB0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62C66AAA-8CB2-4502-B4D8-56FF6133EB0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62C66AAA-8CB2-4502-B4D8-56FF6133EB0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62C66AAA-8CB2-4502-B4D8-56FF6133EB0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62C66AAA-8CB2-4502-B4D8-56FF6133EB0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5077D0AA-C6BC-4E57-96CB-927017226A95}
+	EndGlobalSection
+EndGlobal
